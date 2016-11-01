@@ -7,3 +7,4 @@ var d = 1;
 var f = 5;
 var s = 'c9a70467770469462ad05d88df987e1e0aefc750';
 var t = f;
+var c = 3;
